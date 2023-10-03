@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+article {
+    background-color: rgb(164, 167, 211);
+    padding: 30px 0;
+}
+
+nav {
+    background-color: rgb(76, 88, 88);
+    justify-content: flex-end; /* Para alinear los elementos del nav a la derecha */
+}
+
+footer {
+    background-color: #333; /* Cambia el color de fondo del footer a gris oscuro */
+    color: white; /* Cambia el color del texto del footer a blanco */
+    padding: 40px 0; /* Agrega espacio alrededor del contenido del footer */
+}
+section{
+    background-color: rgb(164, 167, 211);
+    padding: 50px 0;
+    
+}
+.carousel {
+    max-width: 70%; /* Cambia el tamaño del carrusel según tus necesidades */
+    margin: 0 auto; /* Centra horizontalmente el carrusel */
+}
